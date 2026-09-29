@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "001",
+    "category": "people",
+    "concept": "baby",
+    "visual": "👶"
+  },
+  {
+    "id": "002",
+    "category": "people",
+    "concept": "mother",
+    "visual": "👩"
+  },
+  {
+    "id": "003",
+    "category": "animals",
+    "concept": "dog",
+    "visual": "🐶"
+  },
+  {
+    "id": "004",
+    "category": "food",
+    "concept": "banana",
+    "visual": "🍌"
+  },
+  {
+    "id": "005",
+    "category": "home",
+    "concept": "cup",
+    "visual": "☕"
+  },
+  {
+    "id": "006",
+    "category": "toys",
+    "concept": "ball",
+    "visual": "⚽"
+  },
+  {
+    "id": "007",
+    "category": "transport",
+    "concept": "car",
+    "visual": "🚗"
+  },
+  {
+    "id": "008",
+    "category": "nature",
+    "concept": "tree",
+    "visual": "🌳"
+  },
+  {
+    "id": "009",
+    "category": "actions",
+    "concept": "eat",
+    "visual": "🍽️"
+  },
+  {
+    "id": "010",
+    "category": "actions",
+    "concept": "sleep",
+    "visual": "😴"
+  },
+  {
+    "id": "011",
+    "category": "people",
+    "concept": "father",
+    "visual": "👨"
+  },
+  {
+    "id": "012",
+    "category": "people",
+    "concept": "grandmother",
+    "visual": "👵"
+  },
+  {
+    "id": "013",
+    "category": "people",
+    "concept": "grandfather",
+    "visual": "👴"
+  },
+  {
+    "id": "014",
+    "category": "people",
+    "concept": "boy",
+    "visual": "👦"
+  },
+  {
+    "id": "015",
+    "category": "people",
+    "concept": "girl",
+    "visual": "👧"
+  },
+  {
+    "id": "016",
+    "category": "people",
+    "concept": "child",
+    "visual": "🧒"
+  },
+  {
+    "id": "017",
+    "category": "people",
+    "concept": "family",
+    "visual": "👨‍👩‍👧‍👦"
+  },
+  {
+    "id": "018",
+    "category": "people",
+    "concept": "friend",
+    "visual": "🧑‍🤝‍🧑"
+  },
+  {
+    "id": "019",
+    "category": "people",
+    "concept": "teacher",
+    "visual": "🧑‍🏫"
+  },
+  {
+    "id": "020",
+    "category": "people",
+    "concept": "doctor",
+    "visual": "🧑‍⚕️"
+  },
+  {
+    "id": "021",
+    "category": "people",
+    "concept": "police officer",
+    "visual": "👮"
+  },
+  {
+    "id": "022",
+    "category": "people",
+    "concept": "cook",
+    "visual": "🧑‍🍳"
+  },
+  {
+    "id": "023",
+    "category": "people",
+    "concept": "farmer",
+    "visual": "🧑‍🌾"
+  },
+  {
+    "id": "024",
+    "category": "people",
+    "concept": "driver",
+    "visual": "🧑‍✈️"
+  },
+  {
+    "id": "025",
+    "category": "people",
+    "concept": "neighbor",
+    "visual": "🧑"
+  },
+  {
+    "id": "026",
+    "category": "people",
+    "concept": "grandparent",
+    "visual": "🧓"
+  },
+  {
+    "id": "027",
+    "category": "people",
+    "concept": "brother",
+    "visual": "👦"
+  },
+  {
+    "id": "028",
+    "category": "people",
+    "concept": "sister",
+    "visual": "👧"
+  },
+  {
+    "id": "029",
+    "category": "home",
+    "concept": "house",
+    "visual": "🏠"
+  },
+  {
+    "id": "030",
+    "category": "home",
+    "concept": "door",
+    "visual": "🚪"
+  },
+  {
+    "id": "031",
+    "category": "home",
+    "concept": "window",
+    "visual": "🪟"
+  },
+  {
+    "id": "032",
+    "category": "home",
+    "concept": "bed",
+    "visual": "🛏️"
+  },
+  {
+    "id": "033",
+    "category": "home",
+    "concept": "chair",
+    "visual": "🪑"
+  },
+  {
+    "id": "034",
+    "category": "home",
+    "concept": "table",
+    "visual": "🪵"
+  },
+  {
+    "id": "035",
+    "category": "home",
+    "concept": "sofa",
+    "visual": "🛋️"
+  },
+  {
+    "id": "036",
+    "category": "home",
+    "concept": "lamp",
+    "visual": "💡"
+  },
+  {
+    "id": "037",
+    "category": "home",
+    "concept": "clock",
+    "visual": "🕐"
+  },
+  {
+    "id": "038",
+    "category": "home",
+    "concept": "key",
+    "visual": "🔑"
+  },
+  {
+    "id": "039",
+    "category": "home",
+    "concept": "plate",
+    "visual": "🍽️"
+  },
+  {
+    "id": "040",
+    "category": "home",
+    "concept": "spoon",
+    "visual": "🥄"
+  },
+  {
+    "id": "041",
+    "category": "home",
+    "concept": "fork",
+    "visual": "🍴"
+  },
+  {
+    "id": "042",
+    "category": "home",
+    "concept": "bowl",
+    "visual": "🥣"
+  },
+  {
+    "id": "043",
+    "category": "home",
+    "concept": "bottle",
+    "visual": "🍼"
+  },
+  {
+    "id": "044",
+    "category": "home",
+    "concept": "towel",
+    "visual": "🧻"
+  },
+  {
+    "id": "045",
+    "category": "home",
+    "concept": "soap",
+    "visual": "🧼"
+  },
+  {
+    "id": "046",
+    "category": "home",
+    "concept": "toothbrush",
+    "visual": "🪥"
+  },
+  {
+    "id": "047",
+    "category": "home",
+    "concept": "blanket",
+    "visual": "🧣"
+  },
+  {
+    "id": "048",
+    "category": "food",
+    "concept": "water",
+    "visual": "💧"
+  },
+  {
+    "id": "049",
+    "category": "food",
+    "concept": "milk",
+    "visual": "🥛"
+  },
+  {
+    "id": "050",
+    "category": "food",
+    "concept": "bread",
+    "visual": "🍞"
+  },
+  {
+    "id": "051",
+    "category": "food",
+    "concept": "rice",
+    "visual": "🍚"
+  },
+  {
+    "id": "052",
+    "category": "food",
+    "concept": "egg",
+    "visual": "🥚"
+  },
+  {
+    "id": "053",
+    "category": "food",
+    "concept": "cheese",
+    "visual": "🧀"
+  },
+  {
+    "id": "054",
+    "category": "food",
+    "concept": "yogurt",
+    "visual": "🥣"
+  },
+  {
+    "id": "055",
+    "category": "food",
+    "concept": "meat",
+    "visual": "🥩"
+  },
+  {
+    "id": "056",
+    "category": "food",
+    "concept": "fish food",
+    "visual": "🐟"
+  },
+  {
+    "id": "057",
+    "category": "food",
+    "concept": "chicken",
+    "visual": "🍗"
+  },
+  {
+    "id": "058",
+    "category": "food",
+    "concept": "soup",
+    "visual": "🍲"
+  },
+  {
+    "id": "059",
+    "category": "food",
+    "concept": "apple",
+    "visual": "🍎"
+  },
+  {
+    "id": "060",
+    "category": "food",
+    "concept": "orange",
+    "visual": "🍊"
+  },
+  {
+    "id": "061",
+    "category": "food",
+    "concept": "mango",
+    "visual": "🥭"
+  },
+  {
+    "id": "062",
+    "category": "food",
+    "concept": "pineapple",
+    "visual": "🍍"
+  },
+  {
+    "id": "063",
+    "category": "food",
+    "concept": "watermelon",
+    "visual": "🍉"
+  },
+  {
+    "id": "064",
+    "category": "food",
+    "concept": "grapes",
+    "visual": "🍇"
+  },
+  {
+    "id": "065",
+    "category": "food",
+    "concept": "strawberry",
+    "visual": "🍓"
+  },
+  {
+    "id": "066",
+    "category": "food",
+    "concept": "lemon",
+    "visual": "🍋"
+  },
+  {
+    "id": "067",
+    "category": "food",
+    "concept": "tomato",
+    "visual": "🍅"
+  },
+  {
+    "id": "068",
+    "category": "food",
+    "concept": "potato",
+    "visual": "🥔"
+  },
+  {
+    "id": "069",
+    "category": "food",
+    "concept": "carrot",
+    "visual": "🥕"
+  },
+  {
+    "id": "070",
+    "category": "food",
+    "concept": "corn",
+    "visual": "🌽"
+  },
+  {
+    "id": "071",
+    "category": "food",
+    "concept": "beans",
+    "visual": "🫘"
+  },
+  {
+    "id": "072",
+    "category": "food",
+    "concept": "peas",
+    "visual": "🫛"
+  },
+  {
+    "id": "073",
+    "category": "food",
+    "concept": "bread roll",
+    "visual": "🥖"
+  },
+  {
+    "id": "074",
+    "category": "food",
+    "concept": "cake",
+    "visual": "🍰"
+  },
+  {
+    "id": "075",
+    "category": "food",
+    "concept": "ice cream",
+    "visual": "🍦"
+  },
+  {
+    "id": "076",
+    "category": "food",
+    "concept": "cookie",
+    "visual": "🍪"
+  },
+  {
+    "id": "077",
+    "category": "animals",
+    "concept": "cat",
+    "visual": "🐱"
+  },
+  {
+    "id": "078",
+    "category": "animals",
+    "concept": "bird",
+    "visual": "🐦"
+  },
+  {
+    "id": "079",
+    "category": "animals",
+    "concept": "fish",
+    "visual": "🐟"
+  },
+  {
+    "id": "080",
+    "category": "animals",
+    "concept": "cow",
+    "visual": "🐄"
+  },
+  {
+    "id": "081",
+    "category": "animals",
+    "concept": "goat",
+    "visual": "🐐"
+  },
+  {
+    "id": "082",
+    "category": "animals",
+    "concept": "sheep",
+    "visual": "🐑"
+  },
+  {
+    "id": "083",
+    "category": "animals",
+    "concept": "horse",
+    "visual": "🐴"
+  },
+  {
+    "id": "084",
+    "category": "animals",
+    "concept": "pig",
+    "visual": "🐷"
+  },
+  {
+    "id": "085",
+    "category": "animals",
+    "concept": "chicken",
+    "visual": "🐔"
+  },
+  {
+    "id": "086",
+    "category": "animals",
+    "concept": "duck",
+    "visual": "🦆"
+  },
+  {
+    "id": "087",
+    "category": "animals",
+    "concept": "rabbit",
+    "visual": "🐰"
+  },
+  {
+    "id": "088",
+    "category": "animals",
+    "concept": "mouse",
+    "visual": "🐭"
+  },
+  {
+    "id": "089",
+    "category": "animals",
+    "concept": "elephant",
+    "visual": "🐘"
+  },
+  {
+    "id": "090",
+    "category": "animals",
+    "concept": "lion",
+    "visual": "🦁"
+  },
+  {
+    "id": "091",
+    "category": "animals",
+    "concept": "tiger",
+    "visual": "🐯"
+  },
+  {
+    "id": "092",
+    "category": "animals",
+    "concept": "monkey",
+    "visual": "🐒"
+  },
+  {
+    "id": "093",
+    "category": "animals",
+    "concept": "giraffe",
+    "visual": "🦒"
+  },
+  {
+    "id": "094",
+    "category": "animals",
+    "concept": "zebra",
+    "visual": "🦓"
+  },
+  {
+    "id": "095",
+    "category": "animals",
+    "concept": "bear",
+    "visual": "🐻"
+  },
+  {
+    "id": "096",
+    "category": "animals",
+    "concept": "frog",
+    "visual": "🐸"
+  },
+  {
+    "id": "097",
+    "category": "animals",
+    "concept": "turtle",
+    "visual": "🐢"
+  },
+  {
+    "id": "098",
+    "category": "animals",
+    "concept": "snake",
+    "visual": "🐍"
+  },
+  {
+    "id": "099",
+    "category": "animals",
+    "concept": "butterfly",
+    "visual": "🦋"
+  },
+  {
+    "id": "100",
+    "category": "animals",
+    "concept": "bee",
+    "visual": "🐝"
+  },
+  {
+    "id": "101",
+    "category": "clothing",
+    "concept": "shirt",
+    "visual": "👕"
+  },
+  {
+    "id": "102",
+    "category": "clothing",
+    "concept": "pants",
+    "visual": "👖"
+  },
+  {
+    "id": "103",
+    "category": "clothing",
+    "concept": "dress",
+    "visual": "👗"
+  },
+  {
+    "id": "104",
+    "category": "clothing",
+    "concept": "skirt",
+    "visual": "👗"
+  },
+  {
+    "id": "105",
+    "category": "clothing",
+    "concept": "shorts",
+    "visual": "🩳"
+  },
+  {
+    "id": "106",
+    "category": "clothing",
+    "concept": "shoes",
+    "visual": "👟"
+  },
+  {
+    "id": "107",
+    "category": "clothing",
+    "concept": "socks",
+    "visual": "🧦"
+  },
+  {
+    "id": "108",
+    "category": "clothing",
+    "concept": "hat",
+    "visual": "🧢"
+  },
+  {
+    "id": "109",
+    "category": "clothing",
+    "concept": "coat",
+    "visual": "🧥"
+  },
+  {
+    "id": "110",
+    "category": "clothing",
+    "concept": "sweater",
+    "visual": "🧶"
+  },
+  {
+    "id": "111",
+    "category": "clothing",
+    "concept": "pajamas",
+    "visual": "😴"
+  },
+  {
+    "id": "112",
+    "category": "clothing",
+    "concept": "diaper",
+    "visual": "👶"
+  },
+  {
+    "id": "113",
+    "category": "clothing",
+    "concept": "glasses",
+    "visual": "👓"
+  },
+  {
+    "id": "114",
+    "category": "clothing",
+    "concept": "bag",
+    "visual": "🎒"
+  },
+  {
+    "id": "115",
+    "category": "clothing",
+    "concept": "umbrella",
+    "visual": "☂️"
+  },
+  {
+    "id": "116",
+    "category": "clothing",
+    "concept": "boots",
+    "visual": "🥾"
+  },
+  {
+    "id": "117",
+    "category": "clothing",
+    "concept": "scarf",
+    "visual": "🧣"
+  },
+  {
+    "id": "118",
+    "category": "clothing",
+    "concept": "gloves",
+    "visual": "🧤"
+  },
+  {
+    "id": "119",
+    "category": "clothing",
+    "concept": "belt",
+    "visual": "🧷"
+  },
+  {
+    "id": "120",
+    "category": "clothing",
+    "concept": "ring",
+    "visual": "💍"
+  },
+  {
+    "id": "121",
+    "category": "toys",
+    "concept": "doll",
+    "visual": "🪆"
+  },
+  {
+    "id": "122",
+    "category": "toys",
+    "concept": "teddy bear",
+    "visual": "🧸"
+  },
+  {
+    "id": "123",
+    "category": "toys",
+    "concept": "blocks",
+    "visual": "🧱"
+  },
+  {
+    "id": "124",
+    "category": "toys",
+    "concept": "book",
+    "visual": "📕"
+  },
+  {
+    "id": "125",
+    "category": "toys",
+    "concept": "puzzle",
+    "visual": "🧩"
+  },
+  {
+    "id": "126",
+    "category": "toys",
+    "concept": "toy car",
+    "visual": "🚗"
+  },
+  {
+    "id": "127",
+    "category": "toys",
+    "concept": "train toy",
+    "visual": "🚂"
+  },
+  {
+    "id": "128",
+    "category": "toys",
+    "concept": "drum",
+    "visual": "🥁"
+  },
+  {
+    "id": "129",
+    "category": "toys",
+    "concept": "guitar",
+    "visual": "🎸"
+  },
+  {
+    "id": "130",
+    "category": "toys",
+    "concept": "balloon",
+    "visual": "🎈"
+  },
+  {
+    "id": "131",
+    "category": "toys",
+    "concept": "kite",
+    "visual": "🪁"
+  },
+  {
+    "id": "132",
+    "category": "toys",
+    "concept": "bubbles",
+    "visual": "🫧"
+  },
+  {
+    "id": "133",
+    "category": "toys",
+    "concept": "crayon",
+    "visual": "🖍️"
+  },
+  {
+    "id": "134",
+    "category": "toys",
+    "concept": "paint",
+    "visual": "🎨"
+  },
+  {
+    "id": "135",
+    "category": "transport",
+    "concept": "bus",
+    "visual": "🚌"
+  },
+  {
+    "id": "136",
+    "category": "transport",
+    "concept": "truck",
+    "visual": "🚚"
+  },
+  {
+    "id": "137",
+    "category": "transport",
+    "concept": "bicycle",
+    "visual": "🚲"
+  },
+  {
+    "id": "138",
+    "category": "transport",
+    "concept": "motorcycle",
+    "visual": "🏍️"
+  },
+  {
+    "id": "139",
+    "category": "transport",
+    "concept": "train",
+    "visual": "🚆"
+  },
+  {
+    "id": "140",
+    "category": "transport",
+    "concept": "airplane",
+    "visual": "✈️"
+  },
+  {
+    "id": "141",
+    "category": "transport",
+    "concept": "boat",
+    "visual": "⛵"
+  },
+  {
+    "id": "142",
+    "category": "transport",
+    "concept": "taxi",
+    "visual": "🚕"
+  },
+  {
+    "id": "143",
+    "category": "transport",
+    "concept": "ambulance",
+    "visual": "🚑"
+  },
+  {
+    "id": "144",
+    "category": "transport",
+    "concept": "fire truck",
+    "visual": "🚒"
+  },
+  {
+    "id": "145",
+    "category": "transport",
+    "concept": "tractor",
+    "visual": "🚜"
+  },
+  {
+    "id": "146",
+    "category": "transport",
+    "concept": "wheel",
+    "visual": "🛞"
+  },
+  {
+    "id": "147",
+    "category": "transport",
+    "concept": "road",
+    "visual": "🛣️"
+  },
+  {
+    "id": "148",
+    "category": "transport",
+    "concept": "traffic light",
+    "visual": "🚦"
+  },
+  {
+    "id": "149",
+    "category": "nature",
+    "concept": "sun",
+    "visual": "☀️"
+  },
+  {
+    "id": "150",
+    "category": "nature",
+    "concept": "moon",
+    "visual": "🌙"
+  },
+  {
+    "id": "151",
+    "category": "nature",
+    "concept": "star",
+    "visual": "⭐"
+  },
+  {
+    "id": "152",
+    "category": "nature",
+    "concept": "cloud",
+    "visual": "☁️"
+  },
+  {
+    "id": "153",
+    "category": "nature",
+    "concept": "rain",
+    "visual": "🌧️"
+  },
+  {
+    "id": "154",
+    "category": "nature",
+    "concept": "wind",
+    "visual": "💨"
+  },
+  {
+    "id": "155",
+    "category": "nature",
+    "concept": "flower",
+    "visual": "🌸"
+  },
+  {
+    "id": "156",
+    "category": "nature",
+    "concept": "grass",
+    "visual": "🌱"
+  },
+  {
+    "id": "157",
+    "category": "nature",
+    "concept": "leaf",
+    "visual": "🍃"
+  },
+  {
+    "id": "158",
+    "category": "nature",
+    "concept": "mountain",
+    "visual": "⛰️"
+  },
+  {
+    "id": "159",
+    "category": "nature",
+    "concept": "river",
+    "visual": "🏞️"
+  },
+  {
+    "id": "160",
+    "category": "nature",
+    "concept": "sea",
+    "visual": "🌊"
+  },
+  {
+    "id": "161",
+    "category": "nature",
+    "concept": "sand",
+    "visual": "🏖️"
+  },
+  {
+    "id": "162",
+    "category": "nature",
+    "concept": "stone",
+    "visual": "🪨"
+  },
+  {
+    "id": "163",
+    "category": "actions",
+    "concept": "drink",
+    "visual": "🥤"
+  },
+  {
+    "id": "164",
+    "category": "actions",
+    "concept": "wake",
+    "visual": "🌅"
+  },
+  {
+    "id": "165",
+    "category": "actions",
+    "concept": "walk",
+    "visual": "🚶"
+  },
+  {
+    "id": "166",
+    "category": "actions",
+    "concept": "run",
+    "visual": "🏃"
+  },
+  {
+    "id": "167",
+    "category": "actions",
+    "concept": "jump",
+    "visual": "🤸"
+  },
+  {
+    "id": "168",
+    "category": "actions",
+    "concept": "sit",
+    "visual": "🪑"
+  },
+  {
+    "id": "169",
+    "category": "actions",
+    "concept": "stand",
+    "visual": "🧍"
+  },
+  {
+    "id": "170",
+    "category": "actions",
+    "concept": "clap",
+    "visual": "👏"
+  },
+  {
+    "id": "171",
+    "category": "actions",
+    "concept": "wave",
+    "visual": "👋"
+  },
+  {
+    "id": "172",
+    "category": "actions",
+    "concept": "give",
+    "visual": "🤲"
+  },
+  {
+    "id": "173",
+    "category": "actions",
+    "concept": "take",
+    "visual": "🤏"
+  },
+  {
+    "id": "174",
+    "category": "actions",
+    "concept": "open",
+    "visual": "📖"
+  },
+  {
+    "id": "175",
+    "category": "actions",
+    "concept": "close",
+    "visual": "📕"
+  },
+  {
+    "id": "176",
+    "category": "actions",
+    "concept": "look",
+    "visual": "👀"
+  },
+  {
+    "id": "177",
+    "category": "actions",
+    "concept": "listen",
+    "visual": "👂"
+  },
+  {
+    "id": "178",
+    "category": "actions",
+    "concept": "laugh",
+    "visual": "😄"
+  },
+  {
+    "id": "179",
+    "category": "actions",
+    "concept": "cry",
+    "visual": "😢"
+  },
+  {
+    "id": "180",
+    "category": "actions",
+    "concept": "wash",
+    "visual": "🫧"
+  },
+  {
+    "id": "181",
+    "category": "body_feelings",
+    "concept": "head",
+    "visual": "🙂"
+  },
+  {
+    "id": "182",
+    "category": "body_feelings",
+    "concept": "eye",
+    "visual": "👁️"
+  },
+  {
+    "id": "183",
+    "category": "body_feelings",
+    "concept": "ear",
+    "visual": "👂"
+  },
+  {
+    "id": "184",
+    "category": "body_feelings",
+    "concept": "nose",
+    "visual": "👃"
+  },
+  {
+    "id": "185",
+    "category": "body_feelings",
+    "concept": "mouth",
+    "visual": "👄"
+  },
+  {
+    "id": "186",
+    "category": "body_feelings",
+    "concept": "hand",
+    "visual": "✋"
+  },
+  {
+    "id": "187",
+    "category": "body_feelings",
+    "concept": "foot",
+    "visual": "🦶"
+  },
+  {
+    "id": "188",
+    "category": "body_feelings",
+    "concept": "hair",
+    "visual": "💇"
+  },
+  {
+    "id": "189",
+    "category": "body_feelings",
+    "concept": "happy",
+    "visual": "😊"
+  },
+  {
+    "id": "190",
+    "category": "body_feelings",
+    "concept": "sad",
+    "visual": "😢"
+  },
+  {
+    "id": "191",
+    "category": "concepts",
+    "concept": "big",
+    "visual": "🔵"
+  },
+  {
+    "id": "192",
+    "category": "concepts",
+    "concept": "small",
+    "visual": "🔹"
+  },
+  {
+    "id": "193",
+    "category": "concepts",
+    "concept": "hot",
+    "visual": "🔥"
+  },
+  {
+    "id": "194",
+    "category": "concepts",
+    "concept": "cold",
+    "visual": "❄️"
+  },
+  {
+    "id": "195",
+    "category": "concepts",
+    "concept": "up",
+    "visual": "⬆️"
+  },
+  {
+    "id": "196",
+    "category": "concepts",
+    "concept": "down",
+    "visual": "⬇️"
+  },
+  {
+    "id": "197",
+    "category": "concepts",
+    "concept": "inside",
+    "visual": "📦"
+  },
+  {
+    "id": "198",
+    "category": "concepts",
+    "concept": "outside",
+    "visual": "🏡"
+  },
+  {
+    "id": "199",
+    "category": "concepts",
+    "concept": "one",
+    "visual": "1️⃣"
+  },
+  {
+    "id": "200",
+    "category": "concepts",
+    "concept": "many",
+    "visual": "👨‍👩‍👧‍👦"
+  }
+]

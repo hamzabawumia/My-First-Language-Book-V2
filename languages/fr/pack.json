@@ -1,0 +1,610 @@
+{
+ "language": "fr",
+ "name": "Français",
+ "sourceLanguage": "en",
+ "voiceLocale": "fr-FR",
+ "englishName": "French",
+ "translations": {
+  "001": {
+   "word": "bébé"
+  },
+  "002": {
+   "word": "mère"
+  },
+  "003": {
+   "word": "chien"
+  },
+  "004": {
+   "word": "banane"
+  },
+  "005": {
+   "word": "tasse"
+  },
+  "006": {
+   "word": "ballon"
+  },
+  "007": {
+   "word": "voiture"
+  },
+  "008": {
+   "word": "arbre"
+  },
+  "009": {
+   "word": "manger"
+  },
+  "010": {
+   "word": "dormir"
+  },
+  "011": {
+   "word": "père"
+  },
+  "012": {
+   "word": "grand-mère"
+  },
+  "013": {
+   "word": "grand-père"
+  },
+  "014": {
+   "word": "garçon"
+  },
+  "015": {
+   "word": "fille"
+  },
+  "016": {
+   "word": "enfant"
+  },
+  "017": {
+   "word": "famille"
+  },
+  "018": {
+   "word": "ami"
+  },
+  "019": {
+   "word": "enseignant"
+  },
+  "020": {
+   "word": "médecin"
+  },
+  "021": {
+   "word": "policier"
+  },
+  "022": {
+   "word": "cuisinier"
+  },
+  "023": {
+   "word": "agriculteur"
+  },
+  "024": {
+   "word": "conducteur"
+  },
+  "025": {
+   "word": "voisin"
+  },
+  "026": {
+   "word": "grand-parent"
+  },
+  "027": {
+   "word": "frère"
+  },
+  "028": {
+   "word": "sœur"
+  },
+  "029": {
+   "word": "maison"
+  },
+  "030": {
+   "word": "porte"
+  },
+  "031": {
+   "word": "fenêtre"
+  },
+  "032": {
+   "word": "lit"
+  },
+  "033": {
+   "word": "chaise"
+  },
+  "034": {
+   "word": "table"
+  },
+  "035": {
+   "word": "canapé"
+  },
+  "036": {
+   "word": "lampe"
+  },
+  "037": {
+   "word": "horloge"
+  },
+  "038": {
+   "word": "clé"
+  },
+  "039": {
+   "word": "assiette"
+  },
+  "040": {
+   "word": "cuillère"
+  },
+  "041": {
+   "word": "fourchette"
+  },
+  "042": {
+   "word": "bol"
+  },
+  "043": {
+   "word": "bouteille"
+  },
+  "044": {
+   "word": "serviette"
+  },
+  "045": {
+   "word": "savon"
+  },
+  "046": {
+   "word": "brosse à dents"
+  },
+  "047": {
+   "word": "couverture"
+  },
+  "048": {
+   "word": "eau"
+  },
+  "049": {
+   "word": "lait"
+  },
+  "050": {
+   "word": "pain"
+  },
+  "051": {
+   "word": "riz"
+  },
+  "052": {
+   "word": "œuf"
+  },
+  "053": {
+   "word": "fromage"
+  },
+  "054": {
+   "word": "yaourt"
+  },
+  "055": {
+   "word": "viande"
+  },
+  "056": {
+   "word": "nourriture pour poisson"
+  },
+  "057": {
+   "word": "poulet"
+  },
+  "058": {
+   "word": "soupe"
+  },
+  "059": {
+   "word": "pomme"
+  },
+  "060": {
+   "word": "orange"
+  },
+  "061": {
+   "word": "mangue"
+  },
+  "062": {
+   "word": "ananas"
+  },
+  "063": {
+   "word": "pastèque"
+  },
+  "064": {
+   "word": "raisins"
+  },
+  "065": {
+   "word": "fraise"
+  },
+  "066": {
+   "word": "citron"
+  },
+  "067": {
+   "word": "tomate"
+  },
+  "068": {
+   "word": "pomme de terre"
+  },
+  "069": {
+   "word": "carotte"
+  },
+  "070": {
+   "word": "maïs"
+  },
+  "071": {
+   "word": "haricots"
+  },
+  "072": {
+   "word": "petits pois"
+  },
+  "073": {
+   "word": "petit pain"
+  },
+  "074": {
+   "word": "gâteau"
+  },
+  "075": {
+   "word": "glace"
+  },
+  "076": {
+   "word": "biscuit"
+  },
+  "077": {
+   "word": "chat"
+  },
+  "078": {
+   "word": "oiseau"
+  },
+  "079": {
+   "word": "poisson"
+  },
+  "080": {
+   "word": "vache"
+  },
+  "081": {
+   "word": "chèvre"
+  },
+  "082": {
+   "word": "mouton"
+  },
+  "083": {
+   "word": "cheval"
+  },
+  "084": {
+   "word": "cochon"
+  },
+  "085": {
+   "word": "poulet"
+  },
+  "086": {
+   "word": "canard"
+  },
+  "087": {
+   "word": "lapin"
+  },
+  "088": {
+   "word": "souris"
+  },
+  "089": {
+   "word": "éléphant"
+  },
+  "090": {
+   "word": "lion"
+  },
+  "091": {
+   "word": "tigre"
+  },
+  "092": {
+   "word": "singe"
+  },
+  "093": {
+   "word": "girafe"
+  },
+  "094": {
+   "word": "zèbre"
+  },
+  "095": {
+   "word": "ours"
+  },
+  "096": {
+   "word": "grenouille"
+  },
+  "097": {
+   "word": "tortue"
+  },
+  "098": {
+   "word": "serpent"
+  },
+  "099": {
+   "word": "papillon"
+  },
+  "100": {
+   "word": "abeille"
+  },
+  "101": {
+   "word": "chemise"
+  },
+  "102": {
+   "word": "pantalon"
+  },
+  "103": {
+   "word": "robe"
+  },
+  "104": {
+   "word": "jupe"
+  },
+  "105": {
+   "word": "short"
+  },
+  "106": {
+   "word": "chaussures"
+  },
+  "107": {
+   "word": "chaussettes"
+  },
+  "108": {
+   "word": "chapeau"
+  },
+  "109": {
+   "word": "manteau"
+  },
+  "110": {
+   "word": "pull"
+  },
+  "111": {
+   "word": "pyjama"
+  },
+  "112": {
+   "word": "couche"
+  },
+  "113": {
+   "word": "lunettes"
+  },
+  "114": {
+   "word": "sac"
+  },
+  "115": {
+   "word": "parapluie"
+  },
+  "116": {
+   "word": "bottes"
+  },
+  "117": {
+   "word": "écharpe"
+  },
+  "118": {
+   "word": "gants"
+  },
+  "119": {
+   "word": "ceinture"
+  },
+  "120": {
+   "word": "bague"
+  },
+  "121": {
+   "word": "poupée"
+  },
+  "122": {
+   "word": "ours en peluche"
+  },
+  "123": {
+   "word": "blocs"
+  },
+  "124": {
+   "word": "livre"
+  },
+  "125": {
+   "word": "puzzle"
+  },
+  "126": {
+   "word": "voiture miniature"
+  },
+  "127": {
+   "word": "train miniature"
+  },
+  "128": {
+   "word": "tambour"
+  },
+  "129": {
+   "word": "guitare"
+  },
+  "130": {
+   "word": "ballon"
+  },
+  "131": {
+   "word": "cerf-volant"
+  },
+  "132": {
+   "word": "bulles"
+  },
+  "133": {
+   "word": "crayon"
+  },
+  "134": {
+   "word": "peinture"
+  },
+  "135": {
+   "word": "bus"
+  },
+  "136": {
+   "word": "camion"
+  },
+  "137": {
+   "word": "vélo"
+  },
+  "138": {
+   "word": "moto"
+  },
+  "139": {
+   "word": "train"
+  },
+  "140": {
+   "word": "avion"
+  },
+  "141": {
+   "word": "bateau"
+  },
+  "142": {
+   "word": "taxi"
+  },
+  "143": {
+   "word": "ambulance"
+  },
+  "144": {
+   "word": "camion de pompiers"
+  },
+  "145": {
+   "word": "tracteur"
+  },
+  "146": {
+   "word": "roue"
+  },
+  "147": {
+   "word": "route"
+  },
+  "148": {
+   "word": "feu de circulation"
+  },
+  "149": {
+   "word": "soleil"
+  },
+  "150": {
+   "word": "lune"
+  },
+  "151": {
+   "word": "étoile"
+  },
+  "152": {
+   "word": "nuage"
+  },
+  "153": {
+   "word": "pluie"
+  },
+  "154": {
+   "word": "vent"
+  },
+  "155": {
+   "word": "fleur"
+  },
+  "156": {
+   "word": "herbe"
+  },
+  "157": {
+   "word": "feuille"
+  },
+  "158": {
+   "word": "montagne"
+  },
+  "159": {
+   "word": "rivière"
+  },
+  "160": {
+   "word": "mer"
+  },
+  "161": {
+   "word": "sable"
+  },
+  "162": {
+   "word": "pierre"
+  },
+  "163": {
+   "word": "boire"
+  },
+  "164": {
+   "word": "se réveiller"
+  },
+  "165": {
+   "word": "marcher"
+  },
+  "166": {
+   "word": "courir"
+  },
+  "167": {
+   "word": "sauter"
+  },
+  "168": {
+   "word": "s’asseoir"
+  },
+  "169": {
+   "word": "se lever"
+  },
+  "170": {
+   "word": "applaudir"
+  },
+  "171": {
+   "word": "saluer"
+  },
+  "172": {
+   "word": "donner"
+  },
+  "173": {
+   "word": "prendre"
+  },
+  "174": {
+   "word": "ouvrir"
+  },
+  "175": {
+   "word": "fermer"
+  },
+  "176": {
+   "word": "regarder"
+  },
+  "177": {
+   "word": "écouter"
+  },
+  "178": {
+   "word": "rire"
+  },
+  "179": {
+   "word": "pleurer"
+  },
+  "180": {
+   "word": "laver"
+  },
+  "181": {
+   "word": "tête"
+  },
+  "182": {
+   "word": "œil"
+  },
+  "183": {
+   "word": "oreille"
+  },
+  "184": {
+   "word": "nez"
+  },
+  "185": {
+   "word": "bouche"
+  },
+  "186": {
+   "word": "main"
+  },
+  "187": {
+   "word": "pied"
+  },
+  "188": {
+   "word": "cheveux"
+  },
+  "189": {
+   "word": "heureux"
+  },
+  "190": {
+   "word": "triste"
+  },
+  "191": {
+   "word": "grand"
+  },
+  "192": {
+   "word": "petit"
+  },
+  "193": {
+   "word": "chaud"
+  },
+  "194": {
+   "word": "froid"
+  },
+  "195": {
+   "word": "en haut"
+  },
+  "196": {
+   "word": "en bas"
+  },
+  "197": {
+   "word": "dedans"
+  },
+  "198": {
+   "word": "dehors"
+  },
+  "199": {
+   "word": "un"
+  },
+  "200": {
+   "word": "beaucoup"
+  }
+ },
+ "sortOrder": 1
+}

@@ -1,0 +1,19 @@
+{
+  "name": "My First Language Book",
+  "short_name": "Language Book",
+  "description": "Picture prompts for learning languages.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff7e6",
+  "theme_color": "#fff7e6",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#fff7e6">
+  <meta name="description" content="My First Language Book — picture prompts for learning languages.">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <title>My First Language Book</title>
+</head>
+<body>
+  <main id="app" class="app">
+    <section id="cover" class="screen cover-screen">
+      <div class="cover-art"><img src="images/cover_image.png" alt="My First Language Book cover"></div>
+      <p class="eyebrow">English → Français</p>
+      <h1>My First<br>Language Book</h1>
+      <p class="subtitle"><span id="coverCount">200</span> pictures for learning <span id="subtitleLang">French</span></p>
+      <label class="language-select-label" for="languageSelect">Learning language</label>
+      <select id="languageSelect" class="language-select" aria-label="Learning language">
+        <option value="">Loading…</option>
+      </select>
+      <button id="startBtn" class="primary-btn">Start the book</button>
+      <button id="aboutBtn" class="text-btn">For parents</button>
+    </section>
+
+    <section id="reader" class="screen reader-screen" hidden>
+      <header class="topbar">
+        <button id="homeBtn" class="icon-btn" aria-label="Back to cover">⌂</button>
+        <div class="progress-wrap">
+          <div class="progress"><div id="progressBar"></div></div>
+          <span id="progressText">1 / 200</span>
+        </div>
+        <button id="fullscreenBtn" class="icon-btn" aria-label="Full screen">⛶</button>
+      </header>
+
+      <div id="card" class="picture-card" tabindex="0" aria-label="Picture">
+        <div id="visual" class="visual" aria-hidden="true"></div>
+      </div>
+
+      <div class="word-panel">
+        <div class="english-hint" id="englishHint">English hint: baby</div>
+        <div class="target-word" id="targetWord">bébé</div>
+        <button id="speakBtn" class="speak-btn" aria-label="Hear French pronunciation">🔊</button>
+      </div>
+
+      <div class="controls">
+        <button id="prevBtn" class="nav-btn" aria-label="Previous picture">‹</button>
+        <button id="nextBtn" class="nav-btn next" aria-label="Next picture">›</button>
+      </div>
+      <div class="hint">Swipe or tap the arrows. Tap 🔊 to hear <span id="hintLang">French</span>.</div>
+    </section>
+
+    <section id="about" class="modal" hidden>
+      <div class="modal-card">
+        <button id="closeAbout" class="close-btn" aria-label="Close">×</button>
+        <h2>For parents</h2>
+        <p>Each concept has one permanent ID. The picture, <span id="aboutLang">French</span> word, and <span id="aboutLang2">French</span> audio all use that same ID.</p>
+        <p>For example, <strong>003</strong> is the dog: <strong>003.jpg</strong> → the word in <code>languages/&lt;code&gt;/pack.json</code> → <code>languages/&lt;code&gt;/audio/003.mp3</code>.</p>
+        <p>The first 10 photographs supplied with this project are mapped explicitly. Future pictures should use the same concept ID as their filename.</p>
+      </div>
+    </section>
+  </main>
+  <script src="data/embedded.js"></script>
+  <script src="app.js" defer></script>
+</body>
+</html>
