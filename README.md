@@ -2,7 +2,7 @@
 
 A picture book for young children that teaches vocabulary in **any language**. The child sees a large picture, the word in the target language, and can tap 🔊 to hear it spoken. The same pictures are used for every language; only the words and audio change.
 
-**Live site:** https://hamzabawumia.github.io/My-First-Language-Book/
+**Live site:** [https://hamzabawumia.github.io/My-First-Language-Book/](https://hamzabawumia.github.io/My-First-Language-Book-V2/)
 
 - Installable and works offline (Progressive Web App)
 - No framework, no build tools, no server — plain HTML, CSS and JavaScript
