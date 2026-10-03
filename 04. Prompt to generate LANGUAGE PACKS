@@ -1,6 +1,6 @@
-First upload the concept.json and the fr/pack.json files
-then give the following prompt
+First upload the data/concepts.json and the languages/fr/pack.json files
+Then give the following prompt
 
-I have some language concepts and i generated a corresponding language pack for french. 
+I have some language concepts and I generated a corresponding language pack for french. 
 now can you create a language pack for Twi ?
-Lets export it as a .json file for download.
+Let's export it as a .json file for download.
