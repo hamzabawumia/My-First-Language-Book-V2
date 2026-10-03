@@ -1,0 +1,610 @@
+{
+ "language": "ga",
+ "name": "Ga",
+ "sourceLanguage": "en",
+ "voiceLocale": "ga-GH",
+ "englishName": "Ga",
+ "translations": {
+  "001": {
+   "word": "gbekɛbii"
+  },
+  "002": {
+   "word": "mami"
+  },
+  "003": {
+   "word": "gbe"
+  },
+  "004": {
+   "word": "akwadu"
+  },
+  "005": {
+   "word": "kɔp"
+  },
+  "006": {
+   "word": "bɔɔl"
+  },
+  "007": {
+   "word": "tsutsu"
+  },
+  "008": {
+   "word": "tso"
+  },
+  "009": {
+   "word": "ye nii"
+  },
+  "010": {
+   "word": "wɔ"
+  },
+  "011": {
+   "word": "papanii"
+  },
+  "012": {
+   "word": "naa"
+  },
+  "013": {
+   "word": "nii"
+  },
+  "014": {
+   "word": "gbekɛnuu"
+  },
+  "015": {
+   "word": "gbekɛyoo"
+  },
+  "016": {
+   "word": "gbekɛ"
+  },
+  "017": {
+   "word": "weku"
+  },
+  "018": {
+   "word": "naanyo"
+  },
+  "019": {
+   "word": "tsɔɔlɔ"
+  },
+  "020": {
+   "word": "tsofatse"
+  },
+  "021": {
+   "word": "polisinyo"
+  },
+  "022": {
+   "word": "shiatse"
+  },
+  "023": {
+   "word": "okwafo"
+  },
+  "024": {
+   "word": "kudɔlɔ"
+  },
+  "025": {
+   "word": "shiapamfo"
+  },
+  "026": {
+   "word": "nii"
+  },
+  "027": {
+   "word": "nyɛminyuu"
+  },
+  "028": {
+   "word": "nyɛmiyoo"
+  },
+  "029": {
+   "word": "shia"
+  },
+  "030": {
+   "word": "shinaa"
+  },
+  "031": {
+   "word": "tsia"
+  },
+  "032": {
+   "word": "saa"
+  },
+  "033": {
+   "word": "sɛi"
+  },
+  "034": {
+   "word": "okpɔlɔ"
+  },
+  "035": {
+   "word": "sofa"
+  },
+  "036": {
+   "word": "kanea"
+  },
+  "037": {
+   "word": "ŋmɛlɛ"
+  },
+  "038": {
+   "word": "safle"
+  },
+  "039": {
+   "word": "plɛte"
+  },
+  "040": {
+   "word": "atoo"
+  },
+  "041": {
+   "word": "fɔk"
+  },
+  "042": {
+   "word": "kaŋa"
+  },
+  "043": {
+   "word": "tɔ"
+  },
+  "044": {
+   "word": "taole"
+  },
+  "045": {
+   "word": "samla"
+  },
+  "046": {
+   "word": "nyanyɔŋ tso"
+  },
+  "047": {
+   "word": "kuntu"
+  },
+  "048": {
+   "word": "nu"
+  },
+  "049": {
+   "word": "fɔfɔɔnu"
+  },
+  "050": {
+   "word": "abolo"
+  },
+  "051": {
+   "word": "ɔmloni"
+  },
+  "052": {
+   "word": "wolo"
+  },
+  "053": {
+   "word": "kyis"
+  },
+  "054": {
+   "word": "yɔgɔt"
+  },
+  "055": {
+   "word": "loo"
+  },
+  "056": {
+   "word": "shwiem loo nii"
+  },
+  "057": {
+   "word": "wuoloo"
+  },
+  "058": {
+   "word": "wonu"
+  },
+  "059": {
+   "word": "aple"
+  },
+  "060": {
+   "word": "akutso"
+  },
+  "061": {
+   "word": "maŋgo"
+  },
+  "062": {
+   "word": "blɔfoŋme"
+  },
+  "063": {
+   "word": "anago"
+  },
+  "064": {
+   "word": "wainyibil"
+  },
+  "065": {
+   "word": "strɔbɛri"
+  },
+  "066": {
+   "word": "akpaa"
+  },
+  "067": {
+   "word": "amadaa"
+  },
+  "068": {
+   "word": "blɔfo toosi"
+  },
+  "069": {
+   "word": "karot"
+  },
+  "070": {
+   "word": "able"
+  },
+  "071": {
+   "word": "akwei"
+  },
+  "072": {
+   "word": "pisi"
+  },
+  "073": {
+   "word": "abolo fioo"
+  },
+  "074": {
+   "word": "keek"
+  },
+  "075": {
+   "word": "aŋwɛnɛ nu"
+  },
+  "076": {
+   "word": "biskiti"
+  },
+  "077": {
+   "word": "alɔnte"
+  },
+  "078": {
+   "word": "looflɔ"
+  },
+  "079": {
+   "word": "shwiem loo"
+  },
+  "080": {
+   "word": "tsina"
+  },
+  "081": {
+   "word": "to"
+  },
+  "082": {
+   "word": "to gwentɛŋ"
+  },
+  "083": {
+   "word": "okpɔŋɔ"
+  },
+  "084": {
+   "word": "kpotoo"
+  },
+  "085": {
+   "word": "wuɔ"
+  },
+  "086": {
+   "word": "dakodako"
+  },
+  "087": {
+   "word": "kpakpo"
+  },
+  "088": {
+   "word": "kwakwe"
+  },
+  "089": {
+   "word": "shwɔ"
+  },
+  "090": {
+   "word": "jata"
+  },
+  "091": {
+   "word": "hɔŋ"
+  },
+  "092": {
+   "word": "kwao"
+  },
+  "093": {
+   "word": "girafe"
+  },
+  "094": {
+   "word": "ɔfrɔtɔ"
+  },
+  "095": {
+   "word": "shishi"
+  },
+  "096": {
+   "word": "akplɔto"
+  },
+  "097": {
+   "word": "akplɛŋ"
+  },
+  "098": {
+   "word": "onufu"
+  },
+  "099": {
+   "word": "afofantɔ"
+  },
+  "100": {
+   "word": "anyɔŋ"
+  },
+  "101": {
+   "word": "atade"
+  },
+  "102": {
+   "word": "tuutu"
+  },
+  "103": {
+   "word": "flɔk"
+  },
+  "104": {
+   "word": "skɛt"
+  },
+  "105": {
+   "word": "pioto"
+  },
+  "106": {
+   "word": "asafo"
+  },
+  "107": {
+   "word": "kyɛs"
+  },
+  "108": {
+   "word": "akpɛ"
+  },
+  "109": {
+   "word": "kootu"
+  },
+  "110": {
+   "word": "swɛta"
+  },
+  "111": {
+   "word": "wɔmɔ atade"
+  },
+  "112": {
+   "word": "pampa"
+  },
+  "113": {
+   "word": "hiŋmɛi tso"
+  },
+  "114": {
+   "word": "kotoku"
+  },
+  "115": {
+   "word": "akyɛŋ"
+  },
+  "116": {
+   "word": "asafo kakadaŋ"
+  },
+  "117": {
+   "word": "mlabɔ"
+  },
+  "118": {
+   "word": "tsutsu wolo"
+  },
+  "119": {
+   "word": "mlafimɔ"
+  },
+  "120": {
+   "word": "ga"
+  },
+  "121": {
+   "word": "amaga yoo"
+  },
+  "122": {
+   "word": "shishi kuntu"
+  },
+  "123": {
+   "word": "tso shwɛmɔ nii"
+  },
+  "124": {
+   "word": "wolo"
+  },
+  "125": {
+   "word": "pazolo"
+  },
+  "126": {
+   "word": "shwɛmɔ tsutsu"
+  },
+  "127": {
+   "word": "shwɛmɔ keteke"
+  },
+  "128": {
+   "word": "tshɛŋ"
+  },
+  "129": {
+   "word": "gita"
+  },
+  "130": {
+   "word": "bɔɔl afua"
+  },
+  "131": {
+   "word": "ɔpepɛ"
+  },
+  "132": {
+   "word": "ahuru"
+  },
+  "133": {
+   "word": "kreyɔn"
+  },
+  "134": {
+   "word": "ama"
+  },
+  "135": {
+   "word": "lɔle kakadaŋ"
+  },
+  "136": {
+   "word": "trɔk"
+  },
+  "137": {
+   "word": "shwɛmɔ tso"
+  },
+  "138": {
+   "word": "mɔto"
+  },
+  "139": {
+   "word": "keteke"
+  },
+  "140": {
+   "word": "lɔle yibɔo"
+  },
+  "141": {
+   "word": "lɛlɛ"
+  },
+  "142": {
+   "word": "tagse"
+  },
+  "143": {
+   "word": "hela lɔle"
+  },
+  "144": {
+   "word": "la lɔle"
+  },
+  "145": {
+   "word": "trakta"
+  },
+  "146": {
+   "word": "nane"
+  },
+  "147": {
+   "word": "gbɛ"
+  },
+  "148": {
+   "word": "kaneagbɛ"
+  },
+  "149": {
+   "word": "hulu"
+  },
+  "150": {
+   "word": "nyɔŋtsere"
+  },
+  "151": {
+   "word": "ŋulam"
+  },
+  "152": {
+   "word": "atatu"
+  },
+  "153": {
+   "word": "nyɔŋmɔ nɛmɔ"
+  },
+  "154": {
+   "word": "kɔɔyɔɔ"
+  },
+  "155": {
+   "word": "fɔfɔi"
+  },
+  "156": {
+   "word": "gba"
+  },
+  "157": {
+   "word": "baa"
+  },
+  "158": {
+   "word": "gɔŋ"
+  },
+  "159": {
+   "word": "fao"
+  },
+  "160": {
+   "word": "ŋshɔ"
+  },
+  "161": {
+   "word": "shiaa"
+  },
+  "162": {
+   "word": "tɛ"
+  },
+  "163": {
+   "word": "nu nu"
+  },
+  "164": {
+   "word": "te shi"
+  },
+  "165": {
+   "word": "nyiɛ"
+  },
+  "166": {
+   "word": "jo foi"
+  },
+  "167": {
+   "word": "tiki"
+  },
+  "168": {
+   "word": "ta shi"
+  },
+  "169": {
+   "word": "damɔ"
+  },
+  "170": {
+   "word": "kpa nsa"
+  },
+  "171": {
+   "word": "kpo nsa"
+  },
+  "172": {
+   "word": "ha"
+  },
+  "173": {
+   "word": "he"
+  },
+  "174": {
+   "word": "gbie"
+  },
+  "175": {
+   "word": "ŋmɛ"
+  },
+  "176": {
+   "word": "kwɛ"
+  },
+  "177": {
+   "word": "bo toi"
+  },
+  "178": {
+   "word": "ŋmɛ ŋalɔ"
+  },
+  "179": {
+   "word": "fɔ yaa"
+  },
+  "180": {
+   "word": "ju"
+  },
+  "181": {
+   "word": "yitso"
+  },
+  "182": {
+   "word": "hiŋmɛi"
+  },
+  "183": {
+   "word": "toi"
+  },
+  "184": {
+   "word": "gugɔ"
+  },
+  "185": {
+   "word": "naabu"
+  },
+  "186": {
+   "word": "nine"
+  },
+  "187": {
+   "word": "nane"
+  },
+  "188": {
+   "word": "yitsowui"
+  },
+  "189": {
+   "word": "miishɛɛ"
+  },
+  "190": {
+   "word": "dɔlɛ"
+  },
+  "191": {
+   "word": "agbo"
+  },
+  "192": {
+   "word": "bibioo"
+  },
+  "193": {
+   "word": "dɔ"
+  },
+  "194": {
+   "word": "fɔ"
+  },
+  "195": {
+   "word": "ŋwɛi"
+  },
+  "196": {
+   "word": "shishi"
+  },
+  "197": {
+   "word": "mli"
+  },
+  "198": {
+   "word": "agbɔɔ"
+  },
+  "199": {
+   "word": "ekome"
+  },
+  "200": {
+   "word": "pipiisɛɛ"
+  }
+ },
+ "sortOrder": 2
+}
