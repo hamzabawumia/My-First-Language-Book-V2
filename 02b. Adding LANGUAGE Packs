@@ -1,0 +1,69 @@
+The important thing is that this app does not use npm, 
+Vite, React, or a normal JavaScript build system. 
+
+It is deliberately a plain HTML/CSS/JavaScript PWA. 
+Your repository's own developer guide confirms that tools/build.py 
+is the build step.
+
+When you add a new language pack to the git repo online
+Suppose you added:
+languages/de/pack.json
+
+
+You need to clone the repo onto your computer
+
+Then from the root of the repository, run:
+python3 tools/build.py
+
+You should see the script validate the language packs and finish with:
+OK
+
+The script automatically regenerates these three important files:
+languages/index.json
+data/embedded.js
+sw.js
+
+Do not edit those three manually
+.
+Then commit ALL of these changes
+For example:
+git add .
+git commit -m "Add new language pack"
+git push origin main
+
+If you also added new pictures, make sure they're committed too:
+images/011.jpg
+images/012.jpg
+...
+
+The complete workflow I recommend
+# 1. Get the latest code
+git pull origin main
+
+# 2. Run the app's build/validation
+python3 tools/build.py
+
+# 3. Test locally
+python3 -m http.server 8000
+
+Then open:
+http://localhost:8000
+
+
+Then:
+# 4. Commit everything
+git add .
+git commit -m "Add new language pack"
+
+# 5. Push to GitHub
+git push origin main
+
+One particularly important thing for your app
+Your app is a PWA with a service worker. That means you can successfully push the new language to GitHub and still see the old version on your phone/tablet because the old files are cached.
+Your build script updates the cache information in:
+sw.js
+
+That's why running:
+python3 tools/build.py
+
+before committing is important.
