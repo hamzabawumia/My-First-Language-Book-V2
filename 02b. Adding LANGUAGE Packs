@@ -15,6 +15,9 @@ You need to clone the repo onto your computer
 git clone https://hamzabawumia:<PAT>@github.com/hamzabawumia/My-First-Language-Book-V2.git
 RECALL THAT THIS IS A PUBLIC REPO SO YOU CANNOT SHARE YOUR PAT HERE.
 
+THEN 
+cd My-First-Language-Book-V2
+
 Then from the root of the repository, run:
 python3 tools/build.py
 
