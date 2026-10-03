@@ -1,0 +1,610 @@
+{
+ "language": "tw",
+ "name": "Twi",
+ "sourceLanguage": "en",
+ "voiceLocale": "ak-GH",
+ "englishName": "Twi",
+ "translations": {
+  "001": {
+   "word": "akokoaa"
+  },
+  "002": {
+   "word": "ɛna"
+  },
+  "003": {
+   "word": "kraman"
+  },
+  "004": {
+   "word": "kwadu"
+  },
+  "005": {
+   "word": "kuruwa"
+  },
+  "006": {
+   "word": "bɔɔlo"
+  },
+  "007": {
+   "word": "hyɛn"
+  },
+  "008": {
+   "word": "dua"
+  },
+  "009": {
+   "word": "didi"
+  },
+  "010": {
+   "word": "da"
+  },
+  "011": {
+   "word": "agya"
+  },
+  "012": {
+   "word": "nanabaa"
+  },
+  "013": {
+   "word": "nanabarima"
+  },
+  "014": {
+   "word": "abarimaa"
+  },
+  "015": {
+   "word": "abaayewa"
+  },
+  "016": {
+   "word": "abafra"
+  },
+  "017": {
+   "word": "abusua"
+  },
+  "018": {
+   "word": "adamfo"
+  },
+  "019": {
+   "word": "kyerɛkyerɛfo"
+  },
+  "020": {
+   "word": "dɔkota"
+  },
+  "021": {
+   "word": "polisini"
+  },
+  "022": {
+   "word": "noani"
+  },
+  "023": {
+   "word": "kuani"
+  },
+  "024": {
+   "word": "draeva"
+  },
+  "025": {
+   "word": "afipamfo"
+  },
+  "026": {
+   "word": "nana"
+  },
+  "027": {
+   "word": "nua barima"
+  },
+  "028": {
+   "word": "nua baa"
+  },
+  "029": {
+   "word": "dan"
+  },
+  "030": {
+   "word": "pono"
+  },
+  "031": {
+   "word": "mfensere"
+  },
+  "032": {
+   "word": "mpa"
+  },
+  "033": {
+   "word": "akongua"
+  },
+  "034": {
+   "word": "pono"
+  },
+  "035": {
+   "word": "asoa"
+  },
+  "036": {
+   "word": "kanea"
+  },
+  "037": {
+   "word": "dɔn"
+  },
+  "038": {
+   "word": "safoa"
+  },
+  "039": {
+   "word": "prɛte"
+  },
+  "040": {
+   "word": "atere"
+  },
+  "041": {
+   "word": "fɔkye"
+  },
+  "042": {
+   "word": "ayowa"
+  },
+  "043": {
+   "word": "toa"
+  },
+  "044": {
+   "word": "mpopaho"
+  },
+  "045": {
+   "word": "samina"
+  },
+  "046": {
+   "word": "se-tweredua"
+  },
+  "047": {
+   "word": "kuntu"
+  },
+  "048": {
+   "word": "nsuo"
+  },
+  "049": {
+   "word": "nufusuɔ"
+  },
+  "050": {
+   "word": "paanoo"
+  },
+  "051": {
+   "word": "ɛmo"
+  },
+  "052": {
+   "word": "kosua"
+  },
+  "053": {
+   "word": "kyisi"
+  },
+  "054": {
+   "word": "yɔgɔte"
+  },
+  "055": {
+   "word": "nam"
+  },
+  "056": {
+   "word": "nsuomnam aduane"
+  },
+  "057": {
+   "word": "akɔkɔɔnam"
+  },
+  "058": {
+   "word": "nkwan"
+  },
+  "059": {
+   "word": "apere"
+  },
+  "060": {
+   "word": "akutu"
+  },
+  "061": {
+   "word": "amango"
+  },
+  "062": {
+   "word": "aborɔbɛ"
+  },
+  "063": {
+   "word": "anwankye"
+  },
+  "064": {
+   "word": "weanya"
+  },
+  "065": {
+   "word": "strɔbɛre"
+  },
+  "066": {
+   "word": "ankaa"
+  },
+  "067": {
+   "word": "ntoosi"
+  },
+  "068": {
+   "word": "ntwum"
+  },
+  "069": {
+   "word": "kyerɛte"
+  },
+  "070": {
+   "word": "aburoo"
+  },
+  "071": {
+   "word": "adua"
+  },
+  "072": {
+   "word": "pisi"
+  },
+  "073": {
+   "word": "paanoo ketewa"
+  },
+  "074": {
+   "word": "keeke"
+  },
+  "075": {
+   "word": "asikire nsuo"
+  },
+  "076": {
+   "word": "beselete"
+  },
+  "077": {
+   "word": "agyinamoa"
+  },
+  "078": {
+   "word": "anomaa"
+  },
+  "079": {
+   "word": "nsuomnam"
+  },
+  "080": {
+   "word": "nantwie"
+  },
+  "081": {
+   "word": "apɔnkye"
+  },
+  "082": {
+   "word": "odwan"
+  },
+  "083": {
+   "word": "pɔnkɔ"
+  },
+  "084": {
+   "word": "prako"
+  },
+  "085": {
+   "word": "akɔkɔɔ"
+  },
+  "086": {
+   "word": "dabodabo"
+  },
+  "087": {
+   "word": "adanko"
+  },
+  "088": {
+   "word": "akura"
+  },
+  "089": {
+   "word": "ɛsono"
+  },
+  "090": {
+   "word": "gyata"
+  },
+  "091": {
+   "word": "sebo"
+  },
+  "092": {
+   "word": "kwaku"
+  },
+  "093": {
+   "word": "tuntum"
+  },
+  "094": {
+   "word": "ɔfrɔtɔ"
+  },
+  "095": {
+   "word": "sisire"
+  },
+  "096": {
+   "word": "apɔtre"
+  },
+  "097": {
+   "word": "akyekyereɛ"
+  },
+  "098": {
+   "word": "ɔwɔ"
+  },
+  "099": {
+   "word": "afofantɔ"
+  },
+  "100": {
+   "word": "ɔnowa"
+  },
+  "101": {
+   "word": "atadeɛ"
+  },
+  "102": {
+   "word": "brotase"
+  },
+  "103": {
+   "word": "atadebɔ"
+  },
+  "104": {
+   "word": "skyɛte"
+  },
+  "105": {
+   "word": "pioto"
+  },
+  "106": {
+   "word": "asopa"
+  },
+  "107": {
+   "word": "kyɛseɛ"
+  },
+  "108": {
+   "word": "kyɛ"
+  },
+  "109": {
+   "word": "kootu"
+  },
+  "110": {
+   "word": "swɛta"
+  },
+  "111": {
+   "word": "ntadeada"
+  },
+  "112": {
+   "word": "tam ketewa"
+  },
+  "113": {
+   "word": "ahwehwɛwa"
+  },
+  "114": {
+   "word": "kotokuo"
+  },
+  "115": {
+   "word": "kyiniaa"
+  },
+  "116": {
+   "word": "asopa tenten"
+  },
+  "117": {
+   "word": "mabɔho"
+  },
+  "118": {
+   "word": "nsam-atam"
+  },
+  "119": {
+   "word": "abosoɔ"
+  },
+  "120": {
+   "word": "kawa"
+  },
+  "121": {
+   "word": "abaawa kunini"
+  },
+  "122": {
+   "word": "abowa kuntu"
+  },
+  "123": {
+   "word": "nnyinaa"
+  },
+  "124": {
+   "word": "nwoma"
+  },
+  "125": {
+   "word": "pazolo"
+  },
+  "126": {
+   "word": "hyɛn ketewa"
+  },
+  "127": {
+   "word": "keteke ketewa"
+  },
+  "128": {
+   "word": "akyene"
+  },
+  "129": {
+   "word": "gitaa"
+  },
+  "130": {
+   "word": "bɔɔlo mframa"
+  },
+  "131": {
+   "word": "ɔpepɛ"
+  },
+  "132": {
+   "word": "ahuru"
+  },
+  "133": {
+   "word": "kreyɔn"
+  },
+  "134": {
+   "word": "pende"
+  },
+  "135": {
+   "word": "bɔɔse"
+  },
+  "136": {
+   "word": "trɔkɔ"
+  },
+  "137": {
+   "word": "basikolo"
+  },
+  "138": {
+   "word": "mɔtopae"
+  },
+  "139": {
+   "word": "keteke"
+  },
+  "140": {
+   "word": "ewiemhyɛn"
+  },
+  "141": {
+   "word": "korow"
+  },
+  "142": {
+   "word": "tagse"
+  },
+  "143": {
+   "word": "ayarehyɛn"
+  },
+  "144": {
+   "word": "ogya-hyɛn"
+  },
+  "145": {
+   "word": "trakta"
+  },
+  "146": {
+   "word": "nane"
+  },
+  "147": {
+   "word": "kwan"
+  },
+  "148": {
+   "word": "kaneakwan"
+  },
+  "149": {
+   "word": "awia"
+  },
+  "150": {
+   "word": "bosome"
+  },
+  "151": {
+   "word": "nsoromma"
+  },
+  "152": {
+   "word": "omununkum"
+  },
+  "153": {
+   "word": "nsuo"
+  },
+  "154": {
+   "word": "mframa"
+  },
+  "155": {
+   "word": "nhwiren"
+  },
+  "156": {
+   "word": "serɛ"
+  },
+  "157": {
+   "word": "ahahan"
+  },
+  "158": {
+   "word": "bepɔ"
+  },
+  "159": {
+   "word": "asubɔten"
+  },
+  "160": {
+   "word": "po"
+  },
+  "161": {
+   "word": "anhwea"
+  },
+  "162": {
+   "word": "boɔ"
+  },
+  "163": {
+   "word": "nom"
+  },
+  "164": {
+   "word": "nyan"
+  },
+  "165": {
+   "word": "nante"
+  },
+  "166": {
+   "word": "tu mmirika"
+  },
+  "167": {
+   "word": "huruw"
+  },
+  "168": {
+   "word": "tena ase"
+  },
+  "169": {
+   "word": "gyina"
+  },
+  "170": {
+   "word": "bɔ nsam"
+  },
+  "171": {
+   "word": "him nsa"
+  },
+  "172": {
+   "word": "ma"
+  },
+  "173": {
+   "word": "gye"
+  },
+  "174": {
+   "word": "bue"
+  },
+  "175": {
+   "word": "to mu"
+  },
+  "176": {
+   "word": "hwɛ"
+  },
+  "177": {
+   "word": "tie"
+  },
+  "178": {
+   "word": "sere"
+  },
+  "179": {
+   "word": "su"
+  },
+  "180": {
+   "word": "hohoro"
+  },
+  "181": {
+   "word": "ti"
+  },
+  "182": {
+   "word": "ani"
+  },
+  "183": {
+   "word": "aso"
+  },
+  "184": {
+   "word": "hwen"
+  },
+  "185": {
+   "word": "ano"
+  },
+  "186": {
+   "word": "nsa"
+  },
+  "187": {
+   "word": "nan"
+  },
+  "188": {
+   "word": "nwi"
+  },
+  "189": {
+   "word": "ani gye"
+  },
+  "190": {
+   "word": "werɛ bow"
+  },
+  "191": {
+   "word": "kɛseɛ"
+  },
+  "192": {
+   "word": "ketewa"
+  },
+  "193": {
+   "word": "hye"
+  },
+  "194": {
+   "word": "nwo"
+  },
+  "195": {
+   "word": "soro"
+  },
+  "196": {
+   "word": "ase"
+  },
+  "197": {
+   "word": "emuhyɛ"
+  },
+  "198": {
+   "word": "abɔnten"
+  },
+  "199": {
+   "word": "baako"
+  },
+  "200": {
+   "word": "pii"
+  }
+ },
+ "sortOrder": 1
+}
