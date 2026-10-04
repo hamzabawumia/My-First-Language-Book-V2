@@ -436,6 +436,8 @@ Save as `images/<ID>.jpg` or `.png`. Same caching caveat when replacing. Use cle
 
 ### 11.5 Add more concepts (201, 202, …)
 
+> **Full, tested step-by-step guide: `02c. ADDING_CONCEPTS_AND_CATEGORIES.md`** (covers categories/topics, quiz and spelling considerations, special letters, and common mistakes). The short version follows.
+
 Every layer must be updated together, or the app will refuse to start:
 
 1. Append to `data/concepts.json` with the next ID (`"201"`), an English `concept`, a `category`, and an emoji `visual`.
@@ -572,3 +574,12 @@ The manifest uses relative paths (`start_url: "./"`), so the app works from a re
 - **Service worker** – a script the browser runs in the background to manage caching and offline behavior.
 - **Fallback voice** – the browser's built-in text-to-speech, used when there is no MP3.
 - **Generated file** – a file produced by `tools/build.py`; never edited by hand.
+
+## Quiz and Spelling modes
+
+- `games.js` – shared helpers (round runner, results, review, accent folding, sound detection).
+- `quiz.js` – 10-question quiz (picture→word, word→picture, listen→picture when audio/voice exists).
+- `spelling.js` – "Complete the word" (blanks) and "Fix the word" (unscramble). Phrases use one focus word (3+ letters).
+- No data changes are needed: both modes read `data/concepts.json` and the active language pack, so new languages work automatically.
+- Accents: a typed letter that only differs by accent (é/e, ɛ/e, ɔ/o, ŋ/n) is accepted, with a "Remember the accent" note. Edit `SPECIAL` in `games.js` to add more folds.
+- After adding/renaming files run `python3 tools/build.py` to refresh the offline cache list.

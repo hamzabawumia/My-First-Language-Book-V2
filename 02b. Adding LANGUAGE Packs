@@ -1,3 +1,5 @@
+PLAN IS TO MOSTLY EDIT THIS REPO ONLINE 
+
 The important thing is that this app does not use npm, 
 Vite, React, or a normal JavaScript build system. 
 
@@ -17,6 +19,10 @@ RECALL THAT THIS IS A PUBLIC REPO SO YOU CANNOT SHARE YOUR PAT HERE.
 
 THEN 
 cd My-First-Language-Book-V2
+
+If you already have the repo locally then cd into the directory and use:
+
+git pull origin main 
 
 Then from the root of the repository, run:
 python3 tools/build.py

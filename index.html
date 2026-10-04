@@ -22,6 +22,8 @@
         <option value="">Loading…</option>
       </select>
       <button id="startBtn" class="primary-btn">Start the book</button>
+      <button id="quizBtn" class="primary-btn alt-btn">🎯 Take a quiz</button>
+      <button id="spellBtn" class="primary-btn alt-btn">✏️ Spelling</button>
       <button id="aboutBtn" class="text-btn">For parents</button>
     </section>
 
@@ -49,7 +51,66 @@
         <button id="prevBtn" class="nav-btn" aria-label="Previous picture">‹</button>
         <button id="nextBtn" class="nav-btn next" aria-label="Next picture">›</button>
       </div>
+      <div id="topicDone" class="topic-done" hidden>
+        <div id="topicDoneMsg" class="topic-done-msg"></div>
+        <div class="topic-done-btns">
+          <button id="doneQuiz" class="primary-btn">🎯 Take the quiz</button>
+          <button id="doneSpell" class="primary-btn alt-btn">✏️ Spelling</button>
+          <button id="doneTopics" class="primary-btn alt-btn">📚 More topics</button>
+        </div>
+      </div>
       <div class="hint">Swipe or tap the arrows. Tap 🔊 to hear <span id="hintLang">French</span>.</div>
+    </section>
+
+    <section id="topics" class="screen topics-screen" hidden>
+      <header class="topbar">
+        <button id="topicsHome" class="icon-btn" aria-label="Back to cover">⌂</button>
+        <strong class="review-title">Choose a topic to learn</strong>
+        <span class="icon-spacer"></span>
+      </header>
+      <div id="topicGrid" class="topic-grid"></div>
+    </section>
+
+    <section id="menu" class="screen menu-screen" hidden>
+      <header class="topbar"><button id="menuHome" class="icon-btn" aria-label="Back to cover">⌂</button></header>
+      <div class="menu-card">
+        <h2 id="menuTitle"></h2>
+        <label class="language-select-label" for="topicSelect">Topic</label>
+        <select id="topicSelect" class="language-select"></select>
+        <div id="menuButtons" class="menu-buttons"></div>
+      </div>
+    </section>
+
+    <section id="play" class="screen game-screen" hidden>
+      <header class="topbar">
+        <button id="playHome" class="icon-btn" aria-label="Back to cover">⌂</button>
+        <div class="progress-wrap"><div class="progress"><div id="playBar"></div></div><span id="playText">1 / 10</span></div>
+        <span class="icon-spacer"></span>
+      </header>
+      <div id="playPrompt" class="play-prompt"></div>
+      <div id="playBody" class="play-body"></div>
+      <div id="playNote" class="play-note" hidden></div>
+      <div class="play-actions"><button id="playNext" class="primary-btn" hidden>Next ›</button></div>
+    </section>
+
+    <section id="results" class="screen menu-screen" hidden>
+      <div class="menu-card results-card">
+        <div id="resMsg" class="res-msg"></div>
+        <div class="big-score">⭐ <span id="resScore">0</span> correct</div>
+        <div id="resTotal" class="res-total"></div>
+        <button id="tryAgainBtn" class="primary-btn">🔄 Try Again</button>
+        <button id="reviewBtn" class="primary-btn alt-btn">📖 Review Words</button>
+        <button id="resHome" class="primary-btn alt-btn">🏠 Back Home</button>
+      </div>
+    </section>
+
+    <section id="review" class="screen review-screen" hidden>
+      <header class="topbar">
+        <button id="reviewBack" class="icon-btn" aria-label="Back to results">‹</button>
+        <strong class="review-title">Review words</strong>
+        <button id="reviewHome" class="icon-btn" aria-label="Back to cover">⌂</button>
+      </header>
+      <div id="reviewList" class="review-list"></div>
     </section>
 
     <section id="about" class="modal" hidden>
@@ -64,5 +125,8 @@
   </main>
   <script src="data/embedded.js"></script>
   <script src="app.js" defer></script>
+  <script src="games.js" defer></script>
+  <script src="quiz.js" defer></script>
+  <script src="spelling.js" defer></script>
 </body>
 </html>

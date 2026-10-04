@@ -3,6 +3,7 @@ const state = {
   languages: [],
   language: null,
   translations: {},
+  deck: [],
   index: 0,
   startX: null,
   startY: null,
@@ -43,6 +44,7 @@ function loadLanguage(code) {
   validateData(state.items, language);
   state.language = language;
   state.translations = language.translations;
+  state.deck = state.items;
   state.index = 0;
   try { localStorage.setItem("language", language.language); } catch (_) {}
   applyLanguageText();
@@ -56,7 +58,7 @@ function applyLanguageText() {
   document.querySelector(".eyebrow").textContent = `English → ${name}`;
   $("coverCount").textContent = state.items.length;
   $("subtitleLang").textContent = englishName;
-  $("startBtn").textContent = `Start the ${englishName} book`;
+  $("startBtn").textContent = `📖 Learn ${englishName}`;
   $("speakBtn").setAttribute("aria-label", `Hear ${englishName} pronunciation`);
   $("hintLang").textContent = englishName;
   $("aboutLang").textContent = englishName;
@@ -118,7 +120,7 @@ function validateData(items, language) {
 }
 
 function render() {
-  const item = state.items[state.index];
+  const item = state.deck[state.index];
   if (!item) return;
   const translation = state.translations[item.id];
   const imageNumber = item.id;
@@ -137,7 +139,7 @@ function render() {
   }, { once: true });
 
   const current = state.index + 1;
-  const total = state.items.length;
+  const total = state.deck.length;
   $("englishHint").textContent = `English hint: ${item.concept}`;
   $("targetWord").textContent = translation.word;
   $("progressText").textContent = `${current} / ${total}`;
@@ -147,6 +149,7 @@ function render() {
   $("prevBtn").style.opacity = state.index === 0 ? ".35" : "1";
   $("nextBtn").style.opacity = state.index === total - 1 ? ".35" : "1";
   stopAudio();
+  if (typeof afterRender === "function") afterRender();
 }
 
 function showReader() {
@@ -158,7 +161,7 @@ function showReader() {
 
 function go(delta) {
   const next = state.index + delta;
-  if (next < 0 || next >= state.items.length) return;
+  if (next < 0 || next >= state.deck.length) return;
   state.index = next;
   render();
 }
@@ -175,7 +178,7 @@ function stopAudio() {
 }
 
 async function playAudio() {
-  const item = state.items[state.index];
+  const item = state.deck[state.index];
   if (!item) return;
   const translation = state.translations[item.id];
   if (!translation) return;
@@ -208,10 +211,7 @@ async function playAudio() {
   }
 }
 
-$("startBtn").addEventListener("click", () => {
-  state.index = 0;
-  showReader();
-});
+$("startBtn").addEventListener("click", () => openTopics());
 
 $("homeBtn").addEventListener("click", () => {
   stopAudio();
